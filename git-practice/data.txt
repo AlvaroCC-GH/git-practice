@@ -1,1 +1,1 @@
-console.log("Name: Álvaro Age: 35 Favorite Color: Black").
+console.log("Name: Álvaro Age: 35 Favorite Color: Yellow").
